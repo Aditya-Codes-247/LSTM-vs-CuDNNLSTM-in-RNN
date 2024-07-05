@@ -1,1 +1,1 @@
-
+## This Repository Consists of all my RNN projects, it is a live repository which means it will be frequently updated and the file structure too may change in some updates, each folder consists of a seperate explanation.md file, which contains the detaild corresponding to the project present in that specific folder.
